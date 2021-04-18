@@ -10,6 +10,7 @@
 #include <ostream>
 #include <memory>
 #include <iomanip>
+#include <algorithm>
 #include <type_traits>
 #include <stdexcept>
 #include <initializer_list>
